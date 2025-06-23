@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Microservicio.Multas.Controller.MultaControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.811 s -- in com.example.Microservicio.Multas.Controller.MultaControllerTest
