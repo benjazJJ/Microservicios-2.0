@@ -1,0 +1,94 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RecomendacionesYSugerenciasApplication<biblioteca.salas-duoc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Microservicio.Recomendaciones.y.Sugerencias.RecomendacionesYSugerenciasApplication",
+            "projectName": "biblioteca.salas-duoc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioDeStockApplication<com.example-Microservicio-de-Stock>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.Microservicio.de.Stock.MicroservicioDeStockApplication",
+            "projectName": "com.example-Microservicio-de-Stock",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioRecomendacionLecturaApplication<Microservicio-de-Devolucion-6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Servicio.Microservicio.Recomendacion.Lectura.MicroservicioRecomendacionLecturaApplication",
+            "projectName": "Microservicio-de-Devolucion-6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioMultasApplication<Microservicio-de-Solicitudes-de-Ayuda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.Microservicio.Multas.MicroservicioMultasApplication",
+            "projectName": "Microservicio-de-Solicitudes-de-Ayuda",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioRolesYPermisosApplication<Microservicio-Microservicio-Roles-Y-Permisos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Microservicio.Microservicio.Roles.Y.Permisos.MicroservicioRolesYPermisosApplication",
+            "projectName": "Microservicio-Microservicio-Roles-Y-Permisos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<Servicio-Microservicio-de-Devolucion-6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Servicio.Microservicio.de.Devolucion6.Application",
+            "projectName": "Servicio-Microservicio-de-Devolucion-6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<Servicio-Microservicio-de-Notificaciones-7>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Servicio.Microservicio.de.Notificaciones7.Application",
+            "projectName": "Servicio-Microservicio-de-Notificaciones-7",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SolicitudAyudaApplication<Servicio-Microservicio-de-Solicitudes-de-Ayuda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ayuda.SolicitudAyudaApplication",
+            "projectName": "Servicio-Microservicio-de-Solicitudes-de-Ayuda",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioPrestamosApplication<Servicio-Microservicio-Prestamos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Servicio.Microservicio.Prestamos.MicroservicioPrestamosApplication",
+            "projectName": "Servicio-Microservicio-Prestamos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
